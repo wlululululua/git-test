@@ -1,3 +1,3 @@
 # Git test
 
-learn git from now.
+learn git from now!
